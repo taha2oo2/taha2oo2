@@ -51,6 +51,3 @@ Built an end-to-end BI project on financial data across 5 markets:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taahaaaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhtahaqadri@gmail.com)
-
-📍 Italy — Open to Relocation (EU / UAE)
-
